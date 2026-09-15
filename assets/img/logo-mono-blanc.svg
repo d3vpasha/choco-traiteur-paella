@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 244 64" width="244" height="64">
+  <path fill="none" stroke="#FFFFFF" stroke-width="3" d="M32 4.5c9 0 16.5 2 21 7.5s7.5 12.5 6.5 20-3 15-8.5 20-12.5 7.5-20 6.5-14-2-19.5-6.5S3.5 40.5 3.5 32 5.5 17 11 11.5 23.5 4.5 32 4.5z"/>
+  <path fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" d="M26 18c-2-3 2-5 0-8M33 18c-2-3 2-5 0-8M40 18c-2-3 2-5 0-8"/>
+  <path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" d="M14 31l-9-4M50 31l9-4"/>
+  <path fill="#FFFFFF" fill-rule="evenodd" d="M14 34a18 13 0 1 0 36 0a18 13 0 1 0-36 0zM18 33a14 9.5 0 1 0 28 0a14 9.5 0 1 0-28 0z"/>
+  <path fill="#FFFFFF" d="M23.5 33a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0-5 0zM35 30a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0-5 0zM31 38a2.5 2.5 0 1 0 5 0a2.5 2.5 0 1 0-5 0z"/>
+  <path fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" d="M80 57c42-4 108-5 158-2"/>
+  <path fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" d="M101 21a13 17 0 1 0 0 22M112 15v34M132 15v34M112 32h20M144 32a12 17 0 1 0 24 0a12 17 0 1 0-24 0M195 21a13 17 0 1 0 0 22M210 32a12 17 0 1 0 24 0a12 17 0 1 0-24 0"/>
+</svg>

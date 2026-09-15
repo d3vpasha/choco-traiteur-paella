@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://choco-traiteur-paella.vercel.app/sitemap.xml
